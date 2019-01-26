@@ -11,7 +11,8 @@ filters = (
         'messages/visiting.md',
         (
             'airport',
-            'coming to',
+            'be in berlin',
+            'coming to berlin',
             'first time',
             'flying to berlin',
             'going to berlin',
@@ -31,6 +32,7 @@ filters = (
     (
         'messages/moving.md',
         (
+            'move to',
             'moving to',
             'relocating to',
         )
@@ -51,6 +53,24 @@ filters = (
             'sisyphos'
             'tresor',
             'watergate',
+        )
+    ),
+    (
+        'messages/apartment.md',
+        (
+            'find an apartment',
+            'find an flat',
+        )
+    ),
+    (
+        'messages/jobs.md',
+        (
+            'jobs',
+            'salaries',
+            'salary',
+            'internship',
+            'career',
+            'find a job',
         )
     ),
 )

@@ -8,10 +8,7 @@ Here are some useful resources for you:
 * [Stressfaktor](http://stressfaktor.squat.net/termine.php?cat=4) \- alternative concerts
 * [Favorite pubs/bars in Berlin?](https://www.reddit.com/r/berlin/comments/3rjrxd/favorite_barspubs_in_berlin_updates/)
 
-If you want to make some friends on your trip, these resources can help you:
-
-* [Berlin social club](https://www.reddit.com/r/berlinsocialclub/)
-* [Meetup.com](http://meetup.com)
+If you want to make some friends to go out with, try [/r/berlinsocialclub](https://www.reddit.com/r/berlinsocialclub/).
 
 ----
 
