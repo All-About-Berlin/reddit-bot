@@ -19,8 +19,13 @@ filters = (
             'stay',
             'taxi',
             'touristy',
+            'travel to',
+            'traveller',
+            'travelling to',
             'trip',
             'visiting',
+            'welcome card',
+            'will be in berlin',
         )
     ),
     (
