@@ -74,6 +74,15 @@ filters = (
             'find a job',
         )
     ),
+    (
+        'messages/english.md',
+        (
+            'english-speaking',
+            'english speaking',
+            'who speaks english',
+            'who speak english',
+        )
+    ),
 )
 
 
