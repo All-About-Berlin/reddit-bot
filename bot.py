@@ -27,6 +27,7 @@ filters = (
             'visiting',
             'welcome card',
             'will be in berlin',
+            'stag ',
         )
     ),
     (
