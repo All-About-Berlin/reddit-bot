@@ -127,7 +127,7 @@ def police(subreddit, limit=20):
                 with open(message_path, 'r') as message_file:
                     submission.reply(message_file.read())
                     pass
-                with open("replied_to.txt", "w") as replied_to_file:
+                with open("replied_to.txt", "a") as replied_to_file:
                     replied_to_file.write(submission.id + "\n")
                 break
 
