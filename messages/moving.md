@@ -15,4 +15,4 @@ If you're looking to make new friends, these resources can help you:
 
 ----
 
-^(I'm just a dumb bot. Upvote to keep this comment. Downvote to delete it.)
+^(I'm just [a dumb bot](https://github.com/nicbou/berlin-bot). This comment will self-destruct if downvoted.)

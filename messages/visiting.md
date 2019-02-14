@@ -16,4 +16,4 @@ If you want to make some friends on your trip, these resources can help you:
 
 ----
 
-^(I'm just a dumb bot. Upvote to keep this comment. Downvote to delete it.)
+^(I'm just [a dumb bot](https://github.com/nicbou/berlin-bot). This comment will self-destruct if downvoted.)
