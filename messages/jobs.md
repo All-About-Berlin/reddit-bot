@@ -8,4 +8,4 @@ Here are some useful resources:
 
 ----
 
-^(I'm just a dumb bot. Upvote to keep this message. Downvote to delete it.)
+^(I'm just a dumb bot. Upvote to keep this comment. Downvote to delete it.)
