@@ -16,4 +16,4 @@ If you want to make some friends on your trip, these resources can help you:
 
 ----
 
-^I'm ^just ^a ^dumb ^bot. ^Got ^feedback? ^I ^read ^replies.
+^(I'm just a dumb bot. Upvote to keep this message. Downvote to delete it.)

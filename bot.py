@@ -48,12 +48,15 @@ filters = (
             'clubbing',
             'clubs',
             'griessmuehle',
+            'griesmuehle',
             'live music',
             'matrix',
             'nightlife',
             'sisyphos'
             'tresor',
             'watergate',
+            'kit kat',
+            'kitkat',
         )
     ),
     (

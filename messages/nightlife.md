@@ -12,4 +12,4 @@ If you want to make some friends to go out with, try [/r/berlinsocialclub](https
 
 ----
 
-^I'm ^just ^a ^dumb ^bot. ^Got ^feedback? ^I ^read ^replies.
+^(I'm just a dumb bot. Upvote to keep this message. Downvote to delete it.)

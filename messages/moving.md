@@ -15,4 +15,4 @@ If you're looking to make new friends, these resources can help you:
 
 ----
 
-^I'm ^just ^a ^dumb ^bot. ^Got ^feedback? ^I ^read ^replies.
+^(I'm just a dumb bot. Upvote to keep this message. Downvote to delete it.)
