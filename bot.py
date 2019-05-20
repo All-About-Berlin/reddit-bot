@@ -64,6 +64,8 @@ filters = (
         (
             'find an apartment',
             'find an flat',
+            'find an room',
+            'find an wg',
         )
     ),
     (
@@ -84,6 +86,16 @@ filters = (
             'english speaking',
             'who speaks english',
             'who speak english',
+        )
+    ),
+    (
+        'messages/healthinsurance.md',
+        (
+            'krankenkasse',
+            'health insurance',
+            'techniker krankenkasse',
+            ' tk ',
+            ' aok ',
         )
     ),
 )
