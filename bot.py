@@ -18,8 +18,6 @@ filters = (
             'flying to berlin',
             'going to berlin',
             'souvenir'
-            'stay',
-            'taxi',
             'touristy',
             'travel to',
             'traveller',
