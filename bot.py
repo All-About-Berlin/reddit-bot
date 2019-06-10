@@ -11,6 +11,7 @@ filters = (
         'messages/visiting.md',
         (
             'airport',
+            'heading to berlin',
             'be in berlin',
             'coming to berlin',
             'first time',
@@ -22,7 +23,9 @@ filters = (
             'touristy',
             'travel to',
             'traveller',
+            'traveler',
             'travelling to',
+            'traveling to',
             'trip',
             'visiting',
             'welcome card',
