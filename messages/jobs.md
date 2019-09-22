@@ -8,4 +8,4 @@ Here are some useful resources:
 
 ----
 
-^(I'm just [a dumb bot](https://github.com/nicbou/berlin-bot). This comment will self-destruct if downvoted.)
+^(I'm just a dumb bot. This comment will self-destruct if downvoted.)

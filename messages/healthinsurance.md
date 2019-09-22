@@ -6,4 +6,4 @@ There is [an introduction to health insurance in Germany](https://allaboutberlin
 
 ----
 
-^(I'm just [a dumb bot](https://github.com/nicbou/berlin-bot). This comment will self-destruct if downvoted.)
+^(I'm just a dumb bot. This comment will self-destruct if downvoted.)
