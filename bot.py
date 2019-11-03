@@ -41,6 +41,13 @@ filters = (
 
     ),
     (
+        'messages/anmeldung.md',
+        (
+            'anmeldung',
+        )
+
+    ),
+    (
         'messages/nightlife.md',
         (
             'bars',
