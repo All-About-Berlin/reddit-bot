@@ -106,6 +106,25 @@ filters = (
             ' aok ',
         )
     ),
+    (
+        'messages/taxnumber.md',
+        (
+            'rentenversicherungsnummer',
+            'rnvr',
+            'sozialversicherungsnummer',
+            'steuer id',
+            'steuer-id',
+            'steuerid',
+            'steueridentifikationsnummer',
+            'steuernummer',
+            'tax id',
+            'tax id',
+            'tax number',
+            'tax number',
+            'umsatzsteuernummer',
+            'versicherungsnummer',
+        )
+    ),
 )
 
 

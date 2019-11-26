@@ -18,4 +18,4 @@ Here are resources that can help you:
 
 ----
 
-^(I'm just a dumb bot. This comment will self-destruct if downvoted.)
+^(I'm just a dumb bot. This comment will self-destruct if downvoted. Send your feedback to /u/n1c0_ds.)
