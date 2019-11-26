@@ -4,6 +4,7 @@ Here are resources that can help you:
 
 * [Moving to Berlin: the definitive guide](http://allaboutberlin.com/guides/moving-to-berlin)
 * [How to find a job in Berlin](https://allaboutberlin.com/guides/find-a-job-in-berlin)
+* [How to find a flat in Berlin](https://allaboutberlin.com/guides/find-a-flat-in-berlin)
 * [How to do your Anmeldung in Berlin](https://allaboutberlin.com/docs/anmeldung)
 * [Visa information for non-EU citizens](https://www.make-it-in-germany.com/en/)
 * The massive [/r/berlin wiki](https://www.reddit.com/r/berlin/wiki/index)
