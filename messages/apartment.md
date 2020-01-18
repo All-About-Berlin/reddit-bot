@@ -1,4 +1,4 @@
-Welcome to /r/berlin! Looks like you are searching for an apartment in Berlin. Please use the [sticky thread](https://www.reddit.com/r/berlin/comments/cfx68h/visiting_berlin_moving_here_going_clubbing_have_a/) for quick questions, and remember that we don't allow people to ask for an apartment in this subreddit.
+Welcome to /r/berlin! Looks like you are searching for an apartment in Berlin. Please use the [sticky thread](https://www.reddit.com/r/berlin/comments/enyy42/january_13_what_events_are_you_attending_this_week/) for quick questions, and remember that we don't allow people to ask for an apartment in this subreddit.
 
 Here are resources that can help you:
 
