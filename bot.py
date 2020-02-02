@@ -77,6 +77,10 @@ filters = (
             'find an flat',
             'find an room',
             'find an wg',
+            'looking for an apartment',
+            'looking for a room',
+            'looking for a flat',
+            'looking for a wg',
         )
     ),
     (
