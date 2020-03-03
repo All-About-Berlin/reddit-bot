@@ -8,66 +8,32 @@ logger = logging.getLogger(__name__)
 
 filters = (
     (
-        'messages/visiting.md',
+        'messages/healthinsurance.md',
         (
-            'airport',
-            'heading to berlin',
-            'be in berlin',
-            'coming to berlin',
-            'first time',
-            'flying to berlin',
-            'going to berlin',
-            'souvenir'
-            'touristy',
-            'travel to',
-            'traveller',
-            'traveler',
-            'travelling to',
-            'traveling to',
-            'trip',
-            'visiting',
-            'welcome card',
-            'will be in berlin',
-            'stag ',
+            'krankenkasse',
+            'health insurance',
+            'techniker krankenkasse',
+            ' tk ',
+            ' aok ',
         )
     ),
     (
-        'messages/moving.md',
+        'messages/taxnumber.md',
         (
-            'move to',
-            'moving to',
-            'relocating to',
-        )
-
-    ),
-    (
-        'messages/anmeldung.md',
-        (
-            'anmeldung',
-        )
-
-    ),
-    (
-        'messages/nightlife.md',
-        (
-            'bars',
-            'berghain',
-            'cassiopeia',
-            'club',
-            'clubbing',
-            'clubs',
-            'griesmuehle',
-            'griessmuehle',
-            'kit kat',
-            'kitkat',
-            'live music',
-            'matrix',
-            'nightlife',
-            'party',
-            'sisyphos'
-            'techno',
-            'tresor',
-            'watergate',
+            'rentenversicherungsnummer',
+            'rnvr',
+            'sozialversicherungsnummer',
+            'steuer id',
+            'steuer-id',
+            'steuerid',
+            'steueridentifikationsnummer',
+            'steuernummer',
+            'tax id',
+            'tax id',
+            'tax number',
+            'tax number',
+            'umsatzsteuernummer',
+            'versicherungsnummer',
         )
     ),
     (
@@ -95,41 +61,75 @@ filters = (
         )
     ),
     (
+        'messages/anmeldung.md',
+        (
+            'anmeldung',
+        )
+
+    ),
+    (
+        'messages/moving.md',
+        (
+            'move to',
+            'moving to',
+            'relocating to',
+        )
+
+    ),
+    (
+        'messages/visiting.md',
+        (
+            'airport',
+            'heading to berlin',
+            'be in berlin',
+            'coming to berlin',
+            'the first time',
+            'flying to berlin',
+            'going to berlin',
+            'souvenir'
+            'touristy',
+            'travel to',
+            'traveller',
+            'traveler',
+            'travelling to',
+            'traveling to',
+            'trip',
+            'visiting',
+            'welcome card',
+            'will be in berlin',
+            'stag ',
+        )
+    ),
+    (
+        'messages/nightlife.md',
+        (
+            'bars',
+            'berghain',
+            'cassiopeia',
+            'club',
+            'clubbing',
+            'clubs',
+            'griesmuehle',
+            'griessmuehle',
+            'kit kat',
+            'kitkat',
+            'live music',
+            'matrix',
+            'nightlife',
+            'party',
+            'sisyphos'
+            'techno',
+            'tresor',
+            'watergate',
+        )
+    ),
+    (
         'messages/english.md',
         (
             'english-speaking',
             'english speaking',
             'who speaks english',
             'who speak english',
-        )
-    ),
-    (
-        'messages/healthinsurance.md',
-        (
-            'krankenkasse',
-            'health insurance',
-            'techniker krankenkasse',
-            ' tk ',
-            ' aok ',
-        )
-    ),
-    (
-        'messages/taxnumber.md',
-        (
-            'rentenversicherungsnummer',
-            'rnvr',
-            'sozialversicherungsnummer',
-            'steuer id',
-            'steuer-id',
-            'steuerid',
-            'steueridentifikationsnummer',
-            'steuernummer',
-            'tax id',
-            'tax id',
-            'tax number',
-            'tax number',
-            'umsatzsteuernummer',
-            'versicherungsnummer',
         )
     ),
 )
