@@ -8,6 +8,16 @@ logger = logging.getLogger(__name__)
 
 filters = (
     (
+        'messages/coronavirus.md',
+        (
+            'coronavirus',
+            'covid',
+            'quarantine',
+            'hamsterkauf',
+            'infected',
+        )
+    ),
+    (
         'messages/healthinsurance.md',
         (
             'krankenkasse',
@@ -93,8 +103,8 @@ filters = (
             'traveler',
             'travelling to',
             'traveling to',
-            'trip',
-            'visiting',
+            'trip ',
+            'visiting ',
             'welcome card',
             'will be in berlin',
             'stag ',
