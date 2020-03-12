@@ -15,6 +15,7 @@ filters = (
             'quarantine',
             'hamsterkauf',
             'infected',
+            'virus',
         )
     ),
     (
