@@ -16,6 +16,9 @@ filters = (
             'hamsterkauf',
             'infected',
             'virus',
+            'sick',
+            'doctor',
+            'hotline',
         )
     ),
     (
