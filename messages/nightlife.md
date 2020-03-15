@@ -2,6 +2,7 @@ Welcome to /r/berlin! Please ask your nightlife questions in the [sticky thread]
 
 Here are some useful resources for you:
 
+* [Rauschmelder](https://rauschmelder.org/) - live gigs in Berlin, by user frank93
 * [Resident Advisor](https://www.residentadvisor.net/) \- events, lineups etc
 * [Schmutz](https://www.schmutzberlin.com/shows/) \- live music
 * [echtzeit](http://www.echtzeitmusik.de/index.php?page=calendar) \- live music
