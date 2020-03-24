@@ -8,6 +8,24 @@ logger = logging.getLogger(__name__)
 
 filters = (
     (
+        'messages/coronavirus.md',
+        (
+            'ausgangssperre',
+            'coronavirus',
+            'covid',
+            'curfew',
+            'doctor',
+            'hamsterkauf',
+            'hotline',
+            'infected',
+            'lockdown',
+            'masks',
+            'quarantine',
+            'sick',
+            'virus',
+        )
+    ),
+    (
         'messages/healthinsurance.md',
         (
             'krankenkasse',

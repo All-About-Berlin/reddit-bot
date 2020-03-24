@@ -1,4 +1,4 @@
-Do you have questions, updates or concerns about the Coronavirus? Look at the **[/r/berlin Coronavirus megathread](https://www.reddit.com/r/berlin/comments/fhdgku/should_we_keep_all_coronavirus_posts_in_the/)** for useful resources and live updates.
+Do you have questions, updates or concerns about the Coronavirus? Visit the **[/r/berlin Coronavirus megathread](https://www.reddit.com/r/berlin/comments/fgk8ez/berlins_coronavirus_megathread_live_updates/)**. Want to give a hand? [Here's how you can help](https://www.reddit.com/r/berlin/comments/fo0gva/berlins_coronavirus_initiatives_want_to_help/).
 
 ----
 
