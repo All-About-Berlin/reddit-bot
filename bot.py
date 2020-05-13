@@ -10,19 +10,22 @@ filters = (
     (
         'messages/coronavirus.md',
         (
-            'ausgangssperre',
             'coronavirus',
             'covid',
-            'curfew',
-            'doctor',
-            'hamsterkauf',
-            'hotline',
-            'infected',
             'lockdown',
             'masks',
             'quarantine',
             'sick',
             'virus',
+        )
+    ),
+    (
+        'messages/friends.md',
+        (
+            'make friends',
+            'lonely',
+            'new friends',
+            'loneliness',
         )
     ),
     (
@@ -61,6 +64,7 @@ filters = (
             'find an flat',
             'find an room',
             'find an wg',
+            'furnished',
             'looking for an apartment',
             'looking for a room',
             'looking for a flat',
@@ -94,53 +98,53 @@ filters = (
         )
 
     ),
-    # (
-    #     'messages/visiting.md',
-    #     (
-    #         'airport',
-    #         'heading to berlin',
-    #         'be in berlin',
-    #         'coming to berlin',
-    #         'the first time',
-    #         'flying to berlin',
-    #         'going to berlin',
-    #         'souvenir'
-    #         'touristy',
-    #         'travel to',
-    #         'traveller',
-    #         'traveler',
-    #         'travelling to',
-    #         'traveling to',
-    #         'trip ',
-    #         'visiting ',
-    #         'welcome card',
-    #         'will be in berlin',
-    #         'stag ',
-    #     )
-    # ),
-    # (
-    #     'messages/nightlife.md',
-    #     (
-    #         'bars',
-    #         'berghain',
-    #         'cassiopeia',
-    #         'club',
-    #         'clubbing',
-    #         'clubs',
-    #         'griesmuehle',
-    #         'griessmuehle',
-    #         'kit kat',
-    #         'kitkat',
-    #         'live music',
-    #         'matrix',
-    #         'nightlife',
-    #         'party',
-    #         'sisyphos'
-    #         'techno',
-    #         'tresor',
-    #         'watergate',
-    #     )
-    # ),
+    (
+        'messages/visiting.md',
+        (
+            'airport',
+            'heading to berlin',
+            'be in berlin',
+            'coming to berlin',
+            'the first time',
+            'flying to berlin',
+            'going to berlin',
+            'souvenir'
+            'touristy',
+            'travel to',
+            'traveller',
+            'traveler',
+            'travelling to',
+            'traveling to',
+            'trip ',
+            'visiting ',
+            'welcome card',
+            'will be in berlin',
+            'stag ',
+        )
+    ),
+    (
+        'messages/nightlife.md',
+        (
+            'bars',
+            'berghain',
+            'cassiopeia',
+            'club',
+            'clubbing',
+            'clubs',
+            'griesmuehle',
+            'griessmuehle',
+            'kit kat',
+            'kitkat',
+            'live music',
+            'matrix',
+            'nightlife',
+            'party',
+            'sisyphos'
+            'techno',
+            'tresor',
+            'watergate',
+        )
+    ),
     (
         'messages/english.md',
         (

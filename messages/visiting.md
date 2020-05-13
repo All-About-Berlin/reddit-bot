@@ -1,7 +1,6 @@
 Welcome to /r/berlin! Are you visiting Berlin soon? Ask questions about your visit in the [sticky thread](https://www.reddit.com/r/berlin/comments/epylro/visiting_berlin_moving_here_going_clubbing_have_a/). Your thread might be deleted shortly, but feel free to ask your question again there.
 
-**Berlin is affected by the Coronavirus pandemic. For more information, see the [/r/berlin Coronavirus megathread](https://www.reddit.com/r/berlin/comments/fgk8ez/berlins_coronavirus_megathread_live_updates/)** All state-run cultural attractions are closed. Most events are cancelled. This is not a good time to visit Berlin. It is safer to stay at home.
-
+**Berlin is affected by the Coronavirus pandemic. For more information, see the [/r/berlin Coronavirus megathread](https://www.reddit.com/r/berlin/comments/fgk8ez/berlins_coronavirus_megathread_live_updates/)**.
 
 If this is your first time in Berlin, these resources can help you:
 
