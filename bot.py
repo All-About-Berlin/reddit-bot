@@ -8,18 +8,6 @@ logger = logging.getLogger(__name__)
 
 filters = (
     (
-        'messages/coronavirus.md',
-        (
-            'coronavirus',
-            'covid',
-            'lockdown',
-            'masks',
-            'quarantine',
-            'sick',
-            'virus',
-        )
-    ),
-    (
         'messages/friends.md',
         (
             'make friends',
