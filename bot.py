@@ -82,6 +82,7 @@ filters = (
         (
             'move to',
             'moving to',
+            'relocate to',
             'relocating to',
         )
 
@@ -96,6 +97,7 @@ filters = (
             'the first time',
             'flying to berlin',
             'going to berlin',
+            'hotel',
             'souvenir'
             'touristy',
             'travel to',
