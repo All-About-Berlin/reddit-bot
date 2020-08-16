@@ -2,12 +2,8 @@ Welcome to /r/berlin! Looks like you are searching for an apartment in Berlin. P
 
 Here are resources that can help you:
 
+* [ImmobilienScout24](https://www.immobilienscout24.de/) \- Big apartment search portal
+* [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/) \- Classified ads website
 * [How to find an apartment in Berlin](https://allaboutberlin.com/guides/find-a-flat-in-berlin)
     * [How to move out of an apartment](https://allaboutberlin.com/guides/moving-out)
     * [How to move into an apartment](https://allaboutberlin.com/guides/moving-in)
-* The massive [/r/berlin wiki](https://www.reddit.com/r/berlin/wiki/index)
-* The even better [/r/germany wiki](https://www.reddit.com/r/germany/wiki/faq)
-
-----
-
-^(I'm just a dumb bot. This comment will self-destruct if downvoted. Send your feedback to /u/n1c0_ds.)

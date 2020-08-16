@@ -15,7 +15,3 @@ If you want to make some friends on your trip, these resources can help you:
 
 * [Berlin social club](https://www.reddit.com/r/berlinsocialclub/)
 * [Meetup.com](http://meetup.com)
-
-----
-
-^(I'm just a dumb bot. This comment will self-destruct if downvoted. Send your feedback to /u/n1c0_ds.)

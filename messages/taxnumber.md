@@ -11,7 +11,3 @@ Here are resources that can help you:
 
 * [How to find your German tax ID, tax number or VAT number](https://allaboutberlin.com/guides/german-tax-id-steuernummer)
 * [What is the Sozialversicherungsnummer or Rentenversicherungsnummer?](https://allaboutberlin.com/guides/german-versicherungsnummer)
-
-----
-
-^(I'm just a dumb bot. This comment will self-destruct if downvoted. Send your feedback to /u/n1c0_ds.)

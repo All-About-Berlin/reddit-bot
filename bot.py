@@ -8,22 +8,13 @@ logger = logging.getLogger(__name__)
 
 filters = (
     (
-        'messages/friends.md',
+        'messages/drugs.md',
         (
-            'make friends',
-            'lonely',
-            'new friends',
-            'loneliness',
-        )
-    ),
-    (
-        'messages/healthinsurance.md',
-        (
-            'krankenkasse',
-            'health insurance',
-            'techniker krankenkasse',
-            ' tk ',
-            ' aok ',
+            'weed',
+            'cannabis',
+            'marijuana',
+            'mdma',
+            'cocaine',
         )
     ),
     (
@@ -46,13 +37,50 @@ filters = (
         )
     ),
     (
+        'messages/friends.md',
+        (
+            'make friends',
+            'lonely',
+            'new friends',
+            'loneliness',
+            'meet new',
+            'meet some',
+        )
+    ),
+    (
+        'messages/visa.md',
+        (
+            ' visa',
+            'blue card',
+            'residence permit',
+        )
+    ),
+    (
+        'messages/doctors.md',
+        (
+            'doctor',
+            ' gp ',
+            'gynecologist',
+            'osteopath',
+        )
+    ),
+    (
+        'messages/healthinsurance.md',
+        (
+            'krankenkasse',
+            'health insurance',
+            'techniker krankenkasse',
+            ' tk ',
+            ' aok ',
+        )
+    ),
+    (
         'messages/apartment.md',
         (
             'find an apartment',
-            'find an flat',
+            'find a flat',
             'find an room',
             'find an wg',
-            'furnished',
             'looking for an apartment',
             'looking for a room',
             'looking for a flat',
@@ -63,6 +91,7 @@ filters = (
         'messages/jobs.md',
         (
             'jobs',
+            'job market',
             'salaries',
             'salary',
             'internship',
@@ -73,9 +102,13 @@ filters = (
     (
         'messages/anmeldung.md',
         (
+            'address registration',
             'anmeldung',
+            'burgeramt',
+            'bürgeramt',
+            'register my',
+            'ummeldung',
         )
-
     ),
     (
         'messages/moving.md',
@@ -85,7 +118,6 @@ filters = (
             'relocate to',
             'relocating to',
         )
-
     ),
     (
         'messages/visiting.md',
@@ -190,8 +222,8 @@ def police_subreddit(subreddit, limit=20):
                 logger.info('Replying to "{}" ({}) with {}'.format(
                     submission.title, submission.id, message_path
                 ))
-                with open(message_path, 'r') as message_file:
-                    submission.reply(message_file.read())
+                with open(message_path, 'r') as message_file, open('messages/footer.md', 'r') as footer_file:
+                    submission.reply(message_file.read() + footer_file.read())
                 with open("replied_to.txt", "a") as replied_to_file:
                     replied_to_file.write(submission.id + "\n")
                 break
