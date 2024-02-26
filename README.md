@@ -1,6 +1,6 @@
 # /r/berlin bot
 
-This bot provides helpful answers to common questions and directs users to the sticky thread.
+Reddit bot for /r/berlin. This bot provides helpful answers to common questions and directs users to the sticky thread. Currently deactivated.
 
 ## Setup
 
